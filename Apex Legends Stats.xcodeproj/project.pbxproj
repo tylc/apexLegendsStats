@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C00EEC692B4F08F400E72058 /* CoreModel */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CoreModel; sourceTree = "<group>"; };
 		C028F0952B4EFFFE003093B4 /* Apex Legends Stats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apex Legends Stats.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C028F0982B4EFFFE003093B4 /* Apex_Legends_StatsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apex_Legends_StatsApp.swift; sourceTree = "<group>"; };
 		C028F09A2B4EFFFE003093B4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 		C028F08C2B4EFFFE003093B4 = {
 			isa = PBXGroup;
 			children = (
+				C00EEC692B4F08F400E72058 /* CoreModel */,
 				C028F0972B4EFFFE003093B4 /* Apex Legends Stats */,
 				C028F0A92B4EFFFE003093B4 /* Apex Legends StatsTests */,
 				C028F0B32B4EFFFE003093B4 /* Apex Legends StatsUITests */,
